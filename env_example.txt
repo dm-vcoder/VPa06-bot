@@ -1,0 +1,5 @@
+# Скопируйте этот файл в .env и замените значение на ваш токен
+
+# Telegram Bot Token
+# Получите токен у @BotFather в Telegram
+BOT_TOKEN=your_bot_token_here
